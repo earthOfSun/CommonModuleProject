@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="network_hint">网络提醒</string>
+    <string name="network_not_wifi">当前网络不是WIFI</string>
+    <string name="cancel">取消</string>
+    <string name="come_on">继续</string>
+    <string name="version_update">版本更新</string>
+    <string name="update">更新</string>
+
+</resources>
